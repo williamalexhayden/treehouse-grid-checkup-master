@@ -1,0 +1,22 @@
+/* Your Website Styles */
+body {
+	background: #eee;
+}
+
+
+div {
+	margin-top: -60px;	x 
+}
+
+
+/* ADD SELECTOR HERE */
+#home{
+	box-shadow: 0px 0px 10px #333;
+	margin-top: 24px;
+	padding: 48px;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
